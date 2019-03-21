@@ -1,5 +1,12 @@
-# Taro-JD
+# taro-jd
 仿京东商城
+**1、首页展示** 
+
+<img src="./readmeImg/index.jpg" width="375px"/>
+
+**2、分类展示**
+
+<img src="./readmeImg/category.jpg" width="375px"/>
 
 设计说明：
 
@@ -50,6 +57,3 @@
     └── src
 ```
 
-**1、首页展示**
-
-<img src="./readmeImg/index.jpg" width="375px"/>
